@@ -36,7 +36,7 @@ O projeto é dividido nas seguintes seções:
 
 Os dados utilizados neste projeto foram extraídos das seguintes fontes públicas:
 - [Portal de Dados Abertos do CENIPA](https://dados.gov.br/dataset/ocorrencias-aeronauticas)
-- [Kaggle]([https://www.anac.gov.br/assuntos/dados-e-estatisticas](https://www.kaggle.com/datasets/nosbielcs/opendataaigbrazil))
+- [Kaggle]([https://www.anac.gov.br/assuntos/dados-e-estatisticas](https://www.kaggle.com/datasets/nosbielcs/opendataaigbrazil)
 
 ### Dicionário de Dados
 
