@@ -36,11 +36,9 @@ O projeto é dividido nas seguintes seções:
 
 Os dados utilizados neste projeto foram extraídos das seguintes fontes públicas:
 - [Portal de Dados Abertos do CENIPA](https://dados.gov.br/dataset/ocorrencias-aeronauticas)
-- [Kaggle]([https://www.anac.gov.br/assuntos/dados-e-estatisticas](https://www.kaggle.com/datasets/nosbielcs/opendataaigbrazil)
+- [Kaggle](https://www.kaggle.com/datasets/nosbielcs/opendataaigbrazil)
 
-### Dicionário de Dados
-
-## Entendimento dos Dados
+## Dicionário de Dados
 
 Abaixo está uma descrição detalhada das colunas presentes no dataset de ocorrências na aviação brasileira.
 
@@ -103,6 +101,7 @@ Abaixo está uma descrição detalhada das colunas presentes no dataset de ocorr
    jupyter notebook EDA_Opendata_AIG_Brazil.ipynb
 
 ## Principais Resultados ALTERAR ESSA PARTE
+
 - Distribuição de Ocorrências por Ano: Identificação de anos com maior concentração de incidentes.
 - Tipos de Ocorrências: Análise dos diferentes tipos de eventos (incidentes, acidentes).
 - Fatores Contribuintes Mais Comuns: Fatores recorrentes nas ocorrências.
@@ -111,13 +110,10 @@ Abaixo está uma descrição detalhada das colunas presentes no dataset de ocorr
 Este projeto fornece uma análise detalhada dos dados de ocorrências na aviação brasileira, auxiliando na identificação de padrões relevantes. As visualizações e insights gerados podem ser utilizados para melhorar as políticas de segurança e a prevenção de acidentes no setor.
 
 
-**Licença**
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
 **Contato**
 - Arthur Dalcin :
 - Arthur Gomes :
 - Davi Ribeiro :
-- Thais :
-- Luciano :
+- Thais Fernandes :
+- Luciano Weber :
    
