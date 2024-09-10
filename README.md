@@ -100,14 +100,37 @@ Abaixo está uma descrição detalhada das colunas presentes no dataset de ocorr
    ```bash
    jupyter notebook EDA_Opendata_AIG_Brazil.ipynb
 
-## Principais Resultados ALTERAR ESSA PARTE
+## **Principais Resultados**
 
-- Distribuição de Ocorrências por Ano: Identificação de anos com maior concentração de incidentes.
-- Tipos de Ocorrências: Análise dos diferentes tipos de eventos (incidentes, acidentes).
-- Fatores Contribuintes Mais Comuns: Fatores recorrentes nas ocorrências.
-- Regiões Mais Impactadas: Localidades com maior número de ocorrências registradas.
-**Conclusão** ALTERAR
-Este projeto fornece uma análise detalhada dos dados de ocorrências na aviação brasileira, auxiliando na identificação de padrões relevantes. As visualizações e insights gerados podem ser utilizados para melhorar as políticas de segurança e a prevenção de acidentes no setor.
+Durante a análise exploratória dos dados de ocorrências na aviação brasileira, foram identificados diversos insights importantes, que podem ser úteis para a melhoria da segurança aérea no Brasil. Abaixo estão os principais resultados obtidos:
+
+1. **Classificação das Ocorrências:**
+   - A maioria das ocorrências foi classificada como "Incidente" e "Incidente Grave", com um número menor de "Acidentes". Esse dado sugere que, apesar da frequência de ocorrências, grande parte delas não representa uma ameaça crítica à segurança.
+
+2. **Distribuição Geográfica:**
+   - As ocorrências foram concentradas principalmente em grandes cidades e centros urbanos com alta movimentação aérea, como São Paulo, Rio de Janeiro e Brasília.
+   - Os estados de São Paulo (SP) e Rio de Janeiro (RJ) registraram o maior número de ocorrências, o que está diretamente relacionado ao alto volume de tráfego aéreo nessas regiões.
+
+3. **Natureza das Ocorrências:**
+   - As principais causas de ocorrências incluem falhas operacionais, problemas técnicos de manutenção e condições climáticas adversas.
+   - Problemas relacionados a falhas de comunicação entre aeronaves e torres de controle também foram destacados, representando uma área de risco que necessita de atenção.
+
+4. **Aeronaves Envolvidas:**
+   - Aeronaves equipadas com motores a pistão e turboélices estão mais frequentemente envolvidas em acidentes e incidentes, sugerindo que aeronaves de menor porte ou mais antigas são mais suscetíveis a falhas.
+   - Uma correlação foi observada entre o ano de fabricação das aeronaves e o nível de danos: aeronaves mais antigas tendem a sofrer danos mais severos.
+
+5. **Impacto nas Vidas Humanas:**
+   - A maioria das ocorrências não resultou em fatalidades, o que é um indicador positivo de segurança. No entanto, houve um pequeno número de acidentes graves que levaram à perda de vidas, evidenciando a necessidade de melhorias contínuas em procedimentos de segurança.
+
+6. **Fatores Contribuintes:**
+   - A análise mostrou que muitos dos incidentes e acidentes têm como fatores contribuintes falhas humanas e erros operacionais. Isso reforça a importância de treinamentos rigorosos para pilotos e equipes técnicas.
+   - Fatores técnicos, como falhas mecânicas, também tiveram um papel significativo, principalmente em aeronaves mais antigas.
+
+7. **Fases Críticas do Voo:**
+   - As ocorrências foram mais frequentes durante as fases críticas do voo, como decolagem e pouso. Esses momentos são considerados de maior risco, o que sugere a necessidade de uma atenção especial durante esses períodos.
+
+Esses resultados fornecem uma visão ampla sobre os fatores que influenciam as ocorrências na aviação brasileira e indicam áreas onde melhorias podem ser implementadas para aumentar a segurança e reduzir o número de incidentes e acidentes no setor.
+
 
 
 **Contato**
