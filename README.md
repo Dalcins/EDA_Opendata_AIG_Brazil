@@ -134,7 +134,7 @@ Esses resultados fornecem uma visão ampla sobre os fatores que influenciam as o
 
 
 **Contato**
-- Arthur Dalcin :
+- Arthur Dalcin : arthurdalcinss@gmail.com
 - Arthur Gomes :
 - Davi Ribeiro :
 - Thais Fernandes :
